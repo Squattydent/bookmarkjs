@@ -1,7 +1,7 @@
 function bookmark() {
-title = "Localhost bookmark";
+title = "Squattydent ~ Github";
 // This function for Your website
-url = "localhost:31337";
+url = "https://squattydent.github.io/";
 if (window.sidebar) {
 // This function for Mozilla
 window.sidebar.addPanel(title, url,"");
